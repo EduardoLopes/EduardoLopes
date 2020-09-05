@@ -4,7 +4,7 @@ I'm a frontend and game developer, insterested in open source and creative coddi
 
 <hr />
 
-🔭 I’m currently working on [Argila](https://argila.netlify.app/) and [SpeedProof](https://github.com/EduardoLopes/SpeedProof)
+🔭 I’m currently working on [Argila](https://argila.netlify.app/), [SpeedProof](https://github.com/EduardoLopes/SpeedProof) and contributing to [Rome Toolchain](http://romefrontend.dev/)
 
 🤔 I’m looking for help with finding a remote job
 
