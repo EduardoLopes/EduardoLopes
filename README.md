@@ -5,9 +5,7 @@ I'm a frontend and game developer, insterested in open source and creative coddi
 My Portfolio: http://eduardolopes.dev.br/
 <hr />
 
-🔭 I’m currently working on [Argila](https://argila.netlify.app/), [SpeedProof](https://github.com/EduardoLopes/SpeedProof) and contributing to [Rome Toolchain](http://romefrontend.dev/)
-
-🤔 I’m looking for help with finding a remote job
+🔭 I’m currently working on [Argila](https://argila.netlify.app/), contributing to [Rome Tools](http://rome.tools/)
 
 📫 How to reach me: eduardolopesds@gmail.com
 
