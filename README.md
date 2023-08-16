@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a frontend and game developer, insterested in open source and creative codding.
+I'm a frontend and game developer, insterested in open source and creative coding.
 
 My Portfolio: http://eduardolopes.dev.br/
 <hr />
