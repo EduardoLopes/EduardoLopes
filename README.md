@@ -1,17 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm a frontend and game developer, insterested in open source and creative codding.
+I'm Eduardo Lopes, a passionate frontend and game developer with a keen interest in open source and creative coding.
 
-My Portfolio: http://eduardolopes.dev.br/
+### 🌐 My Portfolio
+
+Check out my work at [eduardolopes.dev.br](http://eduardolopes.dev.br/)
+
+### 📫 How to Reach Me
+
+Feel free to drop me an email at [eduardolopesds@gmail.com](mailto:eduardolopesds@gmail.com)
+
+### ⚡ Fun Fact
+
+I play acoustic guitar and sing 🎸🎤
+
 <hr />
-
-📫 How to reach me: eduardolopesds@gmail.com
-
-😄 Pronouns: He/Him 🌈
-
-⚡ Fun fact: I play acoustic guitar and sing
-
-<hr /> 
 
 <picture>
   <source
